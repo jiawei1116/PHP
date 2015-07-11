@@ -1,6 +1,9 @@
 升級到 Mac OS 10.10 (Yosemite)後，Apache http://localhost/~username 出現 404 錯誤
 http://harryhsu.logdown.com/posts/180394-in-mac-os-108-set-up-apache-server-and-php
 
+不用懶人包，在 OS X 上安裝 Apache, PHP, MySQL
+http://blog.allenchou.cc/mac-apache-php-mysql-setup/
+
 mac 整合 php, apache, mysql
 http://blog.caesarchi.com/2012/03/mac-apache-php-mysql.html
 
